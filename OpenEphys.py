@@ -347,13 +347,16 @@ def loadEvents(filepath):
     
     index = -1
 
-    channel = np.zeros(MAX_NUMBER_OF_EVENTS)
-    timestamps = np.zeros(MAX_NUMBER_OF_EVENTS)
-    sampleNum = np.zeros(MAX_NUMBER_OF_EVENTS)
-    nodeId = np.zeros(MAX_NUMBER_OF_EVENTS)
-    eventType = np.zeros(MAX_NUMBER_OF_EVENTS)
-    eventId = np.zeros(MAX_NUMBER_OF_EVENTS)
-    recordingNumber = np.zeros(MAX_NUMBER_OF_EVENTS)
+    # print MAX_NUMBER_OF_EVENTS
+    # input("Press Enter to continue...")
+
+    channel = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    timestamps = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    sampleNum = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    nodeId = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    eventType = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    eventId = np.zeros(int(MAX_NUMBER_OF_EVENTS))
+    recordingNumber = np.zeros(int(MAX_NUMBER_OF_EVENTS))
 
     while f.tell() < os.fstat(f.fileno()).st_size:
         
@@ -687,3 +690,6 @@ def get_header_from_folder(folderpath, filelist=None, **kwargs):
                 raise ValueError("inconsistent header info in key %s" % key)
             
     return unique_header
+
+# testing
+# load('D:\\2044_2018-05-31_12-50-24\\all_channels.events')
