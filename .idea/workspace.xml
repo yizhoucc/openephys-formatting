@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3dc66e1a-5105-4b44-81c6-e1b57f1a1eee" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/OpenEphys.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenEphys.py" afterDir="false" />
-    </list>
+    <list default="true" id="3dc66e1a-5105-4b44-81c6-e1b57f1a1eee" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,8 +29,8 @@
       <file leaf-file-name="OpenEphys.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/OpenEphys.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1807">
-              <caret line="351" lean-forward="true" selection-start-line="351" selection-end-line="351" />
+            <state relative-caret-position="278">
+              <caret line="342" selection-start-line="342" selection-end-line="342" />
             </state>
           </provider>
         </entry>
@@ -144,10 +142,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="974" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-32000" />
+    <option name="y" value="-32000" />
+    <option name="width" value="160" />
+    <option name="height" value="39" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -320,25 +319,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-32000" y="-32000" width="160" height="39" extended-state="1" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.24253732" side_tool="true" weight="0.14923747" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" side_tool="true" weight="0.38059703" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32936078" />
-      <window_info anchor="right" x="961" y="31" width="958" height="1008" id="Python Console" order="10" sideWeight="0.7574627" type="WINDOWED" visible="true" weight="0.4978678" />
+      <window_info anchor="right" x="0" y="23" width="1920" height="1017" id="Python Console" order="10" sideWeight="0.7574627" type="WINDOWED" visible="true" weight="0.4978678" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49626866" weight="0.33660132" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4610874" weight="0.17755991" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2045952" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="1.0" />
       <window_info anchor="right" id="R Packages" order="4" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="R Graphics" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="right" x="1" y="31" width="958" height="1008" id="SciView" order="7" type="WINDOWED" visible="true" weight="0.32932165" />
+      <window_info active="true" anchor="right" x="0" y="23" width="1920" height="1017" id="SciView" order="7" type="WINDOWED" visible="true" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.4989339" weight="0.37363833" />
@@ -587,8 +585,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/OpenEphys.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1807">
-          <caret line="351" lean-forward="true" selection-start-line="351" selection-end-line="351" />
+        <state relative-caret-position="278">
+          <caret line="342" selection-start-line="342" selection-end-line="342" />
         </state>
       </provider>
     </entry>
