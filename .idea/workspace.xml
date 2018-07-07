@@ -142,7 +142,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-32000" />
     <option name="y" value="-32000" />
     <option name="width" value="160" />
@@ -319,14 +319,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-32000" y="-32000" width="160" height="39" extended-state="1" />
+    <frame x="-32000" y="-32000" width="160" height="39" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="9" sideWeight="0.49946696" weight="0.32897604" />
       <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.24253732" side_tool="true" weight="0.14923747" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="9" side_tool="true" weight="0.38059703" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" weight="0.32936078" />
-      <window_info anchor="right" x="0" y="23" width="1920" height="1017" id="Python Console" order="10" sideWeight="0.7574627" type="WINDOWED" visible="true" weight="0.4978678" />
+      <window_info anchor="right" x="0" y="23" width="1920" height="1017" id="Python Console" order="10" sideWeight="0.7574627" type="WINDOWED" weight="0.4978678" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49626866" weight="0.33660132" />
       <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
       <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.4610874" weight="0.17755991" />
@@ -336,7 +336,7 @@
       <window_info anchor="right" id="R Graphics" order="5" weight="0.32995737" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="right" x="0" y="23" width="1920" height="1017" id="SciView" order="7" type="WINDOWED" visible="true" weight="0.32932165" />
+      <window_info anchor="right" x="961" y="31" width="958" height="1008" id="SciView" order="7" type="WINDOWED" weight="0.32932165" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" sideWeight="0.4989339" weight="0.37363833" />
